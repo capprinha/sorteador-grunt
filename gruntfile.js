@@ -1,5 +1,5 @@
 const { task, option } = require("grunt");
-const { watch, src } = require("gulp");
+const { watch, src } = require("grunt");
 
 module.exports = function (grunt) {
     grunt.initConfig({
